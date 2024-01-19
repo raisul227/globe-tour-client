@@ -3,7 +3,7 @@
 Welcome to the Globe Tour website repository! We're thrilled to have you on board, and we hope this document provides you with the information you need to get started, contribute, and make our global travel platform even more exceptional.
 
 
-#Features
+<h2>Features</h2>
 ##Personalized Itineraries: 
 Tailor your travel plans to match your unique preferences and interests. Create bespoke itineraries for a truly personalized adventure.
 
