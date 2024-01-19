@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-custom {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #725AC1;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #725AC1;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #725AC1;
+  }
+  
+  .btn-custom:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #725AC1;
+  }
+  
+  .btn-custom:active {
+    transform: scale(0.9);
+  }
+
+  .btn-custom-md {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #F4834A;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #F4834A;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #F4834A;
+  }
+  
+  .btn-custom-md:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #F4834A;
+  }
+  
+  .btn-custom-md:active {
+    transform: scale(0.9);
+  }
+@media screen and (max-width:768px){
+  .btn-custom-sm {
+    display: inline-block;
+    margin: 0;
+    padding: 8px 20px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #F4834A;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #F4834A;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #F4834A;
+  }
+  
+  .btn-custom-sm:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #F4834A;
+  }
+  
+  .btn-custom-sm:active {
+    transform: scale(0.9);
+  }
+
+}
+
+
+
+

@@ -1,0 +1,66 @@
+[
+    {
+        "img": "https://i.ibb.co/dmwP2pd/tour1.jpg",
+        "time": "10",
+        "rating": 4.5,
+        "description": "Explore the scenic beauty of nature with our guided tour through breathtaking landscapes.",
+        "price": "$50.00",
+        "title": "Explore & Thrive Tours"
+    },
+    {
+        "img": "https://i.ibb.co/Gv6hJbc/card8.jpg",
+        "time": "6",
+        "rating": 4.2,
+        "description": "Embark on a thrilling adventure as you discover hidden gems and historical landmarks.",
+        "price": "$65.00",
+        "title": "Wanderlust Adventures"
+    },
+    {
+        "img": "https://i.ibb.co/vLbKbTc/tour7.jpg",
+        "time": "8",
+        "rating": 4.8,
+        "description": "Experience the local culture and cuisine in this enriching half-day tour.",
+        "price": "$55.00",
+        "title": "Discover Bliss Tours"
+    },
+    {
+        "img": "https://i.ibb.co/1Xysxr1/tour6.jpg",
+        "time": "9",
+        "rating": 4.3,
+        "description": "Visit historical landmarks and immerse yourself in the rich heritage of the region.",
+        "price": "$60.00",
+        "title": "Epic Expeditions"
+    },
+    {
+        "img": "https://i.ibb.co/sVpcXZF/tour5.jpg",
+        "time": "9",
+        "rating": 4.7,
+        "description": "Enjoy a day of adventure with a mix of hiking, wildlife spotting, and breathtaking views.",
+        "price": "$75.00",
+        "title": "Nature's Symphony Tours"
+    },
+    {
+        "img": "https://i.ibb.co/KjkCQ0b/tour4.jpg",
+        "time": "11",
+        "rating": 4.6,
+        "description": "Discover the hidden waterfalls and serene landscapes on this refreshing tour.",
+        "price": "$70.00",
+        "title": "Luxury Voyager Vacations"
+    },
+    {
+        "img": "https://i.ibb.co/ZTMv5YS/tour2.jpg",
+        "time": "5",
+        "rating": 4.4,
+        "description": "Witness the sunset at a stunning viewpoint after a day of exploration and fun.",
+        "price": "$55.00",
+        "title": "Timeless Treks Tours"
+    },
+    {
+        "img": "https://i.ibb.co/WDqM3Yn/tour3.jpg",
+        "time": "6",
+        "rating": 4.9,
+        "description": "Experience a culinary tour, sampling local delicacies and flavors in a guided food adventure.",
+        "price": "$45.00",
+        "title": "Global Odyssey Tours"
+    }
+]
