@@ -4,17 +4,17 @@ Welcome to the Globe Tour website repository! We're thrilled to have you on boar
 
 
 <h2>Features</h2>
-**Personalized Itineraries:**
+ <p>Personalized Itineraries:</p>
 Tailor your travel plans to match your unique preferences and interests. Create bespoke itineraries for a truly personalized adventure.
 
-Community Connection: 
+<p>Community Connection:</p> 
 Engage with a dynamic community of fellow travelers. Share your stories, seek advice, and connect with like-minded individuals from around the world.
 
-## Real-time Updates: 
+<p>Real-time Updates: </p>
 Stay informed with the latest travel updates, weather information, and local news. Be well-prepared for your adventures with real-time, reliable data.
 
-## Exclusive Travel Deals: 
+<p>Exclusive Travel Deals: </p>
 Enjoy special promotions, discounts, and travel packages available only to Globe Tour members. Maximize your budget and elevate your travel experience.
 
-## User-Friendly Interface: 
+<p>User-Friendly Interface:</p> 
 Navigate seamlessly through a clean, intuitive interface designed with the user in mind. Globe Tour is accessible to all, ensuring a hassle-free exploration experience.
