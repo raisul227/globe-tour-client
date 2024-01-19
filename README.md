@@ -4,7 +4,7 @@ Welcome to the Globe Tour website repository! We're thrilled to have you on boar
 
 
 <h2>Features</h2>
-** Personalized Itineraries: **
+**Personalized Itineraries:**
 Tailor your travel plans to match your unique preferences and interests. Create bespoke itineraries for a truly personalized adventure.
 
 Community Connection: 
